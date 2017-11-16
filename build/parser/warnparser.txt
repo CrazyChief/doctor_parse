@@ -1,0 +1,29 @@
+missing module named resource - imported by posix, C:\Projects\doctor_parse\parser.py
+missing module named posix - imported by os, C:\Projects\doctor_parse\parser.py
+missing module named _posixsubprocess - imported by subprocess, C:\Projects\doctor_parse\parser.py
+missing module named 'org.python' - imported by pickle, C:\Projects\doctor_parse\parser.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\Projects\doctor_parse\parser.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Projects\doctor_parse\parser.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Projects\doctor_parse\parser.py
+missing module named _winreg - imported by platform, C:\Projects\doctor_parse\parser.py
+missing module named java - imported by platform, C:\Projects\doctor_parse\parser.py
+missing module named 'java.lang' - imported by platform, C:\Projects\doctor_parse\parser.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Projects\doctor_parse\parser.py
+missing module named termios - imported by tty, getpass, C:\Projects\doctor_parse\parser.py
+missing module named grp - imported by tarfile, shutil, C:\Projects\doctor_parse\parser.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, C:\Projects\doctor_parse\parser.py
+missing module named ce - imported by os, C:\Projects\doctor_parse\parser.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Projects\doctor_parse\parser.py
+missing module named org - imported by copy, C:\Projects\doctor_parse\parser.py
+missing module named iconv_codec - imported by bs4.dammit
+missing module named chardet - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named lxml - imported by bs4.builder._lxml
+missing module named 'html5lib.treebuilders' - imported by bs4.builder._html5lib
+missing module named 'html5lib.constants' - imported by bs4.builder._html5lib
+missing module named html5lib - imported by bs4.builder._html5lib
+missing module named cPickle - imported by xlsxwriter.compat_collections
+missing module named cStringIO - imported by cPickle
+missing module named copy_reg - imported by cPickle, cStringIO
+missing module named StringIO - imported by xlsxwriter.compatibility
+missing module named _scproxy - imported by urllib.request
