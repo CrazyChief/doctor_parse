@@ -1,4 +1,5 @@
+.idea
 proxy/proxy.jsonl
-tmp/.jsonl
-excel/.xls
-.png
+tmp/*.jsonl
+excel/*.xls
+*.png
